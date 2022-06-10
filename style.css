@@ -5,7 +5,7 @@
 */
 
 body{
-/*background-color: rgb(75, 75, 75);*/
+background-color: rgb(75, 75, 75);
 font-size: 18px;
 text-align: justify;
 overflow: auto;
@@ -49,12 +49,14 @@ color: azure;
 
 ul li:hover{
     background-color: blueviolet;
-    margin-right: 1315px;
+    margin-right: 13px;
 }
 
 #caixas{
 border: 3px solid red;
-margin-left: ;
+position: absolute;
+bottom: 10px;
+left: 50%;
 }
 
 #site{ 
