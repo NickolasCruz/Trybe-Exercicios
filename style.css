@@ -1,0 +1,66 @@
+/** { margin: 0%;
+    padding: 0%;
+
+}
+*/
+
+body{
+/*background-color: rgb(75, 75, 75);*/
+font-size: 18px;
+text-align: justify;
+overflow: auto;
+text-decoration: none;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+.caixa{
+background-color: blueviolet;
+width: 40px;
+height:40px;
+display: inline-block;
+text-align: center;
+padding:10px;
+border: solid red;
+/*margin-right: 250px;*/
+
+display: inline-block
+}
+
+.Imagem {
+display: inline;
+position: absolute;
+top: 240px;
+left: 100px;
+margin:0%;
+padding:0%;
+border:0;
+}
+
+# { background-color:blueviolet ;
+
+}
+ol li:active{
+color: azure;
+}
+
+ul li:hover{
+    background-color: blueviolet;
+    margin-right: 1315px;
+}
+
+#caixas{
+border: 3px solid red;
+margin-left: ;
+}
+
+#site{ 
+text-decoration: ;
+
+}
+
+
+
